@@ -1,0 +1,59 @@
+body {
+  background-color: #E9ECEF;
+}
+
+.container {
+  display: grid;
+  place-items: center;
+}
+
+.container h1 {
+  color: red;
+}
+
+.liste {
+  display: grid;
+  place-items: center;
+}
+
+.liste h2 {
+  color: yellowgreen;
+}
+
+.card {
+  background-color: #E9ECEF
+}
+
+article h1 {
+  color: purple;
+  text-align: center;
+}
+article h2 {
+  color: rgb(150, 150, 39);
+
+}
+
+section h1 {
+  color: purple;
+  text-align: center;
+}
+
+.wrapper {
+  justify-content: center;
+}
+
+.card-body {
+  text-align: left;
+}
+
+.card-product {
+  color: purple;
+}
+
+.text-muted {
+  color: white !important;
+  font-size: x-small;
+  background-color: rgb(103, 101, 101);
+  padding: 2px;
+  border-radius: 4px;
+}
